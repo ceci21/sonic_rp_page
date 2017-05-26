@@ -1,0 +1,13 @@
+{
+  "dependencies": {},
+  "scripts": {
+    "start": "ws"
+  },
+  "name": "my_sonic_rp_page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "local-web-server": "^1.2.7"
+  }
+}

@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/139/838/original/cute-colorful-polka-dot-grunge-background-vector.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  font-family: Georgia;
+}
+
+
+div {
+  background-color: rgba(0, 0, 0, .75);
+  color: white;
+  border: 10px dotted black;
+  border-image: url("https://www.w3schools.com/css/border.png") 20% round;
+  margin: 10px 100px 10px 100px;
+  padding: 0px 100px 0px 100px;
+}
+
+#banner {
+  background-color: black;
+}
+
+h2 {
+  background-color: black;
+  color: white;
+}
+
+p {
+  white-space: pre-line;
+  color: black;
+}
+
+img {
+  max-width: 400px;
+  max-height: 400px;
+}
+
+
+
+
+
